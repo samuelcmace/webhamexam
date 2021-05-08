@@ -1,2 +1,2 @@
-# webhamexam-backend
-The backend code powering webhamexam.
+# webhamexam
+Ham radio practice exam software written in node.
